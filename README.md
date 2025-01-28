@@ -12,8 +12,8 @@ The dataset was downloaded from Kaggle in a WinRAR zip format, extracted and con
 ### Process
 ---
 - Verify data for missing values & anomalies
-- Exchanging and replacing values within columns
-- Make dataset is clean with respect to data format, data type, and values used
+- Exchange and replace values within columns
+- Ensure dataset is clean with respect to data format, data type, and values used
 - Upload to Power Query for further analysis
 
 ### KPIs and Metric Used
